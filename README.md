@@ -3,7 +3,7 @@
   <img src="https://github.com/USERNAME/USERNAME/blob/main/banner.png" width="80%">
 </p>
 
-<h1 align="center">👋 Olá, eu sou o <strong>NAMA KAMU</strong></h1>
+<h1 align="center">👋 <strong>Rizal Shofwan</strong></h1>
 
 <p align="center">
   <a href="https://github.com/USERNAME?tab=followers">
